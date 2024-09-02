@@ -1,3 +1,9 @@
+# Requirements
+
+To match the Baidu Apollo 7.0 Docker Image, this bazel cc_toolchain support:
+- bazel 3.7.0
+- llvm-10 & clang 10.0.0
+
 # Stage 1
 
 This showcases how to build a single file to create a runnable application.
